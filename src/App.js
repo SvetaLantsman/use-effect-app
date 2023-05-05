@@ -2,7 +2,7 @@
 
 function App() {
   return (
-    <DataView>Hello</DataView>
+    <div>Hello</div>
   );
 }
 
